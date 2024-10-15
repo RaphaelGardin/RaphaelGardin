@@ -12,9 +12,10 @@ Skills: JAVA / PYTHON / C / C++ / MONGODB / SQL / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning BFF  
 - 📫 How to reach me: RHGcosta@gmail.com 
 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raphael-costa-094a24304/)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RaphaelGardin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raphael gardin/)  
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RaphaelGardin) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelGardin)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelGardin&show_icons=true&count_private=true)  
